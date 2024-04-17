@@ -1,11 +1,10 @@
 # Insyncify: A Simple CRM Tool
 
-Insyncify is a simple Customer Relationship Management (CRM) tool built with Django. It's designed to help businesses stay in sync with their customers and manage their interactions efficiently.
+Insyncify is a simple Customer Management tool built with Django. It's designed to help businesses stay in sync with their customers and manage their data efficiently.
 
 ## Features
 
 - **Customer Management**: Keep track of all your customers and their details in one place.
-- **Interaction Tracking**: Record every interaction with your customers to provide personalized service.
 
 ## Installation
 
